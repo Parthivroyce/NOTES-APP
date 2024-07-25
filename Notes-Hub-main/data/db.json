@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "title": "My First Note!",
+      "body": "Hello World!",
+      "category": "Work",
+      "date": "20/09/2023",
+      "id": 1
+    },
+    {
+      "title": "Work Work!!",
+      "body": "Hey goto uni!!",
+      "category": "Work",
+      "date": "21/09/2023",
+      "id": 7
+    },
+    {
+      "title": "Notes Hub!",
+      "body": "Notes Hub is a React app that allows you to create, edit, and delete notes with ease. Notes Hub is a simple and elegant solution for managing your notes in one place.",
+      "category": "Other",
+      "date": "21/09/2023",
+      "id": 8
+    },
+    {
+      "title": "My Work",
+      "body": "Done for Today!",
+      "category": "Other",
+      "date": "21/09/2023",
+      "id": 9
+    },
+    {
+      "title": "Todo",
+      "body": "Create Edit button and change font family",
+      "category": "Other",
+      "date": "21/09/2023",
+      "id": 11
+    },
+    {
+      "title": "todo2",
+      "body": "something is wrong with default value in select category",
+      "category": "Other",
+      "date": "21/09/2023",
+      "id": 12
+    }
+  ]
+}
